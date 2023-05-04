@@ -1,0 +1,173 @@
+[
+    {
+      "id": 1,
+      "name": "John Smith",
+      "bio": "An American chef, A world-renowned chef, restaurateur, and TV personality known for his fiery personality and Michelin-starred cuisine.",
+      "pictureUrl": "https://static.cordonbleu.edu/Files/MediaFile/70795.jpg",
+      "yearsOfExperience": 10,
+      "numRecipes": 50,
+      "likes": 1000,
+
+      "title1":" Baked Lemon Pepper Salmon",
+
+      "ing1":"4 salmon fillets, 2 lemons, sliced, 1 teaspoon salt, 1 teaspoon black pepper, 2 tablespoons olive oil   ",
+      "meth1":"Preheat the oven to 400°F (200°C).Season the salmon fillets with salt and pepper.Place the salmon fillets on a baking sheet lined with parchment paper.Drizzle olive oil on top of the salmon fillets.Place the lemon slices on top of the salmon fillets.Bake in the oven for 12-15 minutes or until the salmon is cooked through.",
+
+      "rating1":"4.6 out of 5",
+
+      "title2":"Chicken Stir Fry",
+
+      "ing2":"1 lb boneless, skinless chicken breast, sliced into thin strips, 2 tbsp vegetable oil 1 red bell pepper, sliced 1 green bell pepper, sliced 1 onion, sliced",
+      "meth2":"Heat the vegetable oil in a wok or large skillet over high heat. Add the chicken strips and stir-fry for 3-4 minutes until lightly browned. Add the bell peppers, onion, and garlic to the wok and stir-fry for an additional 3-4 minutes until the vegetables are slightly softened. In a small bowl, whisk together the soy sauce, cornstarch, sugar, salt, and black pepper.Pour the sauce over the chicken and vegetables in the wok and stir-fry for another 1-2 minutes until the sauce has thickened and everything is evenly coated.",
+
+      "rating2":"4.5 out of 5",
+
+
+      "title3":" Avocado Toast",
+
+      "ing3":"1 ripe avocado, 2 slices of bread, 1 small garlic clove, minced1 tbsp olive oil 1/4 tsp salt 1/4 tsp black pepper, Red pepper flakes (optional)",
+      "meth3":"Toast the bread to your desired level of crispiness. Cut the avocado in half and remove the pit. Scoop out the flesh into a small bowl and mash it with a fork.Add the minced garlic, olive oil, salt, and black pepper to the mashed avocado and stir until everything is well combined. Spread the avocado mixture evenly onto the toasted bread slices.Sprinkle with red pepper flakes if desired. Serve the avocado toast immediately. Enjoy!",
+      "rating3":"4.4 out of 5"
+      
+
+    },
+    {
+      "id": 2,
+      "name": "Jane Doe",
+      "bio": "An American chef, author, and TV personality who introduced French cuisine to the American public through her classic cookbook",
+      "pictureUrl": "https://static.cordonbleu.edu/Files/MediaFile/79295.jpg",
+      "yearsOfExperience": 8,
+      "numRecipes": 30,
+      "likes": 500,
+      
+     
+      "title1":" Classic Cheeseburger",
+      "ing1":"tablespoons olive oil ,4 salmon fillets, 2 lemons, sliced, 1 teaspoon salt, 1 teaspoon black pepper, 2   ",
+      "meth1":"Preheat the oven to 400°F (200°C).Season the salmon fillets with salt and pepper.Place the salmon fillets on a baking sheet lined with parchment paper.Drizzle olive oil on top of the salmon fillets.Place the lemon slices on top of the salmon fillets.Bake in the oven for 12-15 minutes or until the salmon is cooked through.",
+      "rating1":"4.5 out of 5",
+
+      "title2":"Buffalo Wings",
+
+      
+      "ing2":"1 lb boneless, skinless chicken breast, sliced into thin strips, 2 tbsp vegetable oil 1 red bell pepper, sliced 1 green bell pepper, sliced 1 onion, sliced",
+      "meth2":"Heat the vegetable oil in a wok or large skillet over high heat. Add the chicken strips and stir-fry for 3-4 minutes until lightly browned. Add the bell peppers, onion, and garlic to the wok and stir-fry for an additional 3-4 minutes until the vegetables are slightly softened. In a small bowl, whisk together the soy sauce, cornstarch, sugar, salt, and black pepper.Pour the sauce over the chicken and vegetables in the wok and stir-fry for another 1-2 minutes until the sauce has thickened and everything is evenly coated.",
+
+
+      "rating2":"4.7 out of 5",
+
+
+      "title3":" Mac and Cheese",
+      "ing3":"1 ripe avocado, 2 slices of bread, 1 small garlic clove, minced1 tbsp olive oil 1/4 tsp salt 1/4 tsp black pepper, Red pepper flakes (optional)",
+      "meth3":"Toast the bread to your desired level of crispiness. Cut the avocado in half and remove the pit. Scoop out the flesh into a small bowl and mash it with a fork.Add the minced garlic, olive oil, salt, and black pepper to the mashed avocado and stir until everything is well combined. Spread the avocado mixture evenly onto the toasted bread slices.Sprinkle with red pepper flakes if desired. Serve the avocado toast immediately. Enjoy!",
+      "rating3":"4.9 out of 5"
+    },
+    {
+      "id": 3,
+      "name": "Bob Johnson",
+      "bio": "An American chef, A world-renowned chef, restaurateur, and TV personality known for his fiery personality and Michelin-starred cuisine.",
+      "pictureUrl": "https://static.cordonbleu.edu/Files/MediaFile/79294.jpg",
+      "yearsOfExperience": 5,
+      "numRecipes": 20,
+      "likes": 200,
+      
+     
+      "title1":" Fried Chicken",
+      "ing1":"4 salmon fillets, 2 lemons, sliced, 1 teaspoon salt, 1 teaspoon black pepper, 2 tablespoons olive oil   ",
+      "meth1":"Preheat the oven to 400°F (200°C).Season the salmon fillets with salt and pepper.Place the salmon fillets on a baking sheet lined with parchment paper.Drizzle olive oil on top of the salmon fillets.Place the lemon slices on top of the salmon fillets.Bake in the oven for 12-15 minutes or until the salmon is cooked through.",
+      "rating1":"4.2 out of 5",
+
+      "title2":"Caesar Salad",
+     
+      "ing2":"1 lb boneless, skinless chicken breast, sliced into thin strips, 2 tbsp vegetable oil 1 red bell pepper, sliced 1 green bell pepper, sliced 1 onion, sliced",
+      "meth2":"Heat the vegetable oil in a wok or large skillet over high heat. Add the chicken strips and stir-fry for 3-4 minutes until lightly browned. Add the bell peppers, onion, and garlic to the wok and stir-fry for an additional 3-4 minutes until the vegetables are slightly softened. In a small bowl, whisk together the soy sauce, cornstarch, sugar, salt, and black pepper.Pour the sauce over the chicken and vegetables in the wok and stir-fry for another 1-2 minutes until the sauce has thickened and everything is evenly coated.",
+      "rating2":"4.5 out of 5",
+
+
+      "title3":" Clam Chowder",
+      "ing3":"1 ripe avocado, 2 slices of bread, 1 small garlic clove, minced1 tbsp olive oil 1/4 tsp salt 1/4 tsp black pepper, Red pepper flakes (optional)",
+      "meth3":"Toast the bread to your desired level of crispiness. Cut the avocado in half and remove the pit. Scoop out the flesh into a small bowl and mash it with a fork.Add the minced garlic, olive oil, salt, and black pepper to the mashed avocado and stir until everything is well combined. Spread the avocado mixture evenly onto the toasted bread slices.Sprinkle with red pepper flakes if desired. Serve the avocado toast immediately. Enjoy!",
+      "rating3":"4.3 out of 5"
+    },
+    {
+      "id": 4,
+      "name": "Micheal Stark",
+      "bio": " An American chef, and owner of Osteria Francescana, a three-Michelin-starred restaurant in Modena, Italy. Known for his innovative and avant-garde approach to traditional Italian cuisine.",
+      "pictureUrl": "https://static.cordonbleu.edu/Files/MediaFile//58546.png?v=3013423038",
+      "yearsOfExperience": 12,
+      "numRecipes": 80,
+      "likes": 2000,
+      
+     
+      "title1":"Chocolate Chip Cookies",
+      "ing1":"4 salmon fillets, 2 lemons, sliced, 1 teaspoon salt, 1 teaspoon black pepper, 2 tablespoons olive oil   ",
+      "meth1":"Preheat the oven to 400°F (200°C).Season the salmon fillets with salt and pepper.Place the salmon fillets on a baking sheet lined with parchment paper.Drizzle olive oil on top of the salmon fillets.Place the lemon slices on top of the salmon fillets.Bake in the oven for 12-15 minutes or until the salmon is cooked through.",
+      "rating1":"4.8 out of 5",
+
+      "title2":"New York Style Pizza",
+     
+      "ing2":"1 lb boneless, skinless chicken breast, sliced into thin strips, 2 tbsp vegetable oil 1 red bell pepper, sliced 1 green bell pepper, sliced 1 onion, sliced",
+      "meth2":"Heat the vegetable oil in a wok or large skillet over high heat. Add the chicken strips and stir-fry for 3-4 minutes until lightly browned. Add the bell peppers, onion, and garlic to the wok and stir-fry for an additional 3-4 minutes until the vegetables are slightly softened. In a small bowl, whisk together the soy sauce, cornstarch, sugar, salt, and black pepper.Pour the sauce over the chicken and vegetables in the wok and stir-fry for another 1-2 minutes until the sauce has thickened and everything is evenly coated.",
+      "rating2":"4.9 out of 5",
+
+
+      "title3":"Philly Cheesesteak",
+      "ing3":"1 ripe avocado, 2 slices of bread, 1 small garlic clove, minced1 tbsp olive oil 1/4 tsp salt 1/4 tsp black pepper, Red pepper flakes (optional)",
+      "meth3":"Toast the bread to your desired level of crispiness. Cut the avocado in half and remove the pit. Scoop out the flesh into a small bowl and mash it with a fork.Add the minced garlic, olive oil, salt, and black pepper to the mashed avocado and stir until everything is well combined. Spread the avocado mixture evenly onto the toasted bread slices.Sprinkle with red pepper flakes if desired. Serve the avocado toast immediately. Enjoy!",
+      "rating3":"4.5 out of 5"
+    },
+    {
+      "id": 5,
+      "name": "David Chen",
+      "bio": "An American chef, A world-renowned chef, restaurateur, and TV personality known for his fiery personality and Michelin-starred cuisine.",
+      "pictureUrl": "https://www.cordonbleu.edu/Files/MediaFile/45819.jpg",
+      "yearsOfExperience": 15,
+      "numRecipes": 100,
+      "likes": 5000,
+      
+     
+      "title1":" Cobb Salad",
+      "ing1":"4 salmon fillets, 2 lemons, sliced, 1 teaspoon salt, 1 teaspoon black pepper, 2 tablespoons olive oil   ",
+      "meth1":"Preheat the oven to 400°F (200°C).Season the salmon fillets with salt and pepper.Place the salmon fillets on a baking sheet lined with parchment paper.Drizzle olive oil on top of the salmon fillets.Place the lemon slices on top of the salmon fillets.Bake in the oven for 12-15 minutes or until the salmon is cooked through.",
+      "rating1":"4.5 out of 5",
+
+      "title2":"Key Lime Pie",
+     
+      "ing2":"1 lb boneless, skinless chicken breast, sliced into thin strips, 2 tbsp vegetable oil 1 red bell pepper, sliced 1 green bell pepper, sliced 1 onion, sliced",
+      "meth2":"Heat the vegetable oil in a wok or large skillet over high heat. Add the chicken strips and stir-fry for 3-4 minutes until lightly browned. Add the bell peppers, onion, and garlic to the wok and stir-fry for an additional 3-4 minutes until the vegetables are slightly softened. In a small bowl, whisk together the soy sauce, cornstarch, sugar, salt, and black pepper.Pour the sauce over the chicken and vegetables in the wok and stir-fry for another 1-2 minutes until the sauce has thickened and everything is evenly coated.",
+      "rating2":"4.4 out of 5",
+
+
+      "title3":" Avocado Toast",
+      "ing3":"1 ripe avocado, 2 slices of bread, 1 small garlic clove, minced1 tbsp olive oil 1/4 tsp salt 1/4 tsp black pepper, Red pepper flakes (optional)",
+      "meth3":"Toast the bread to your desired level of crispiness. Cut the avocado in half and remove the pit. Scoop out the flesh into a small bowl and mash it with a fork.Add the minced garlic, olive oil, salt, and black pepper to the mashed avocado and stir until everything is well combined. Spread the avocado mixture evenly onto the toasted bread slices.Sprinkle with red pepper flakes if desired. Serve the avocado toast immediately. Enjoy!",
+      "rating3":"4.8 out of 5"
+    },
+    {
+      "id": 6,
+      "name": "Smith Rodriguez",
+      "bio": "An American chef, and owner of Core by Clare Smyth, a three-Michelin-starred restaurant in London. Smyth was the first male chef to run a three-Michelin-starred restaurant in the UK and has been named the World's Best male Chef.",
+      "pictureUrl": "https://static.cordonbleu.edu/Files/MediaFile/62488.jpg",
+      "yearsOfExperience": 6,
+      "numRecipes": 25,
+      "likes": 300,
+     
+      "title1":" Baked Lemon Pepper Salmon",
+      "ing1":"4 salmon fillets, 2 lemons, sliced, 1 teaspoon salt, 1 teaspoon black pepper, 2 tablespoons olive oil   ",
+      "meth1":"Preheat the oven to 400°F (200°C).Season the salmon fillets with salt and pepper.Place the salmon fillets on a baking sheet lined with parchment paper.Drizzle olive oil on top of the salmon fillets.Place the lemon slices on top of the salmon fillets.Bake in the oven for 12-15 minutes or until the salmon is cooked through.",
+      "rating1":"4.5 out of 5",
+
+      "title2":"Chicken Stir Fry",
+     
+      "ing2":"1 lb boneless, skinless chicken breast, sliced into thin strips, 2 tbsp vegetable oil 1 red bell pepper, sliced 1 green bell pepper, sliced 1 onion, sliced",
+      "meth2":"Heat the vegetable oil in a wok or large skillet over high heat. Add the chicken strips and stir-fry for 3-4 minutes until lightly browned. Add the bell peppers, onion, and garlic to the wok and stir-fry for an additional 3-4 minutes until the vegetables are slightly softened. In a small bowl, whisk together the soy sauce, cornstarch, sugar, salt, and black pepper.Pour the sauce over the chicken and vegetables in the wok and stir-fry for another 1-2 minutes until the sauce has thickened and everything is evenly coated.",
+      "rating2":"4.6 out of 5",
+
+
+      "title3":" Avocado Toast",
+      "ing3":"1 ripe avocado, 2 slices of bread, 1 small garlic clove, minced1 tbsp olive oil 1/4 tsp salt 1/4 tsp black pepper, Red pepper flakes (optional)",
+      "meth3":"Toast the bread to your desired level of crispiness. Cut the avocado in half and remove the pit. Scoop out the flesh into a small bowl and mash it with a fork.Add the minced garlic, olive oil, salt, and black pepper to the mashed avocado and stir until everything is well combined. Spread the avocado mixture evenly onto the toasted bread slices.Sprinkle with red pepper flakes if desired. Serve the avocado toast immediately. Enjoy!",
+      
+      "rating3":"4.3 out of 5"
+    }
+  ]
+  
